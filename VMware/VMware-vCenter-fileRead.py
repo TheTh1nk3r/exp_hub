@@ -58,7 +58,8 @@ class Log(Log):
 
 def info():
     Log.info(f'+------------------------------------------') 
-    Log.info(f'Version: Version: VMware vCenter任意文件读取漏洞')
+    Log.info(f'Version: VMware vCenter任意文件读取漏洞 ')
+    Log.info(f'Version: VMware vCenter Server 6.5.0a- f 版本')
     Log.info(f'usage:  python3 poc.py URL ')
     Log.info(f'example:  python3 poc.py http://127.0.0.1')
     Log.info(f'+------------------------------------------')
