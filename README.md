@@ -6,7 +6,9 @@
 
 ## 0x02 VMware
 [**CVE-2021-21975**](https://github.com/TheTh1nk3r/exp_hub/tree/main/VMware) VMware vRealize Operations Manager SSRF漏洞  
+[**vCenter任意文件读取**](https://github.com/TheTh1nk3r/exp_hub/tree/main/VMware) VMware vCenter任意文件读取漏洞 
  
+
 
 
 
