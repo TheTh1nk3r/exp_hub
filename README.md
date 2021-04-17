@@ -7,9 +7,10 @@
  
 
 ## 0x03 Chrome
-[**chrome 0day poc**](https://github.com/TheTh1nk3r/exp_hub/tree/main/chrome-0day) 影响范围 Chrome 89.0.4389.114 及以下版本与使用Chrome内核的其他浏览器
+[**chrome 1day poc**](https://github.com/TheTh1nk3r/exp_hub/tree/main/chrome-0day) 影响范围 Chrome 89.0.4389.114 及以下版本与使用Chrome内核的其他浏览器
 
-
+## 0x04 Apache OFBiz
+[**CVE-2021-26295**](https://github.com/TheTh1nk3r/exp_hub/tree/main/Apache%20OFBiz) Apache OFBiz反序列漏洞（CVE-2021-26295）
 
 
 
